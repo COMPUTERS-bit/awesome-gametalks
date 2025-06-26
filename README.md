@@ -2,7 +2,7 @@
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU): Satoru Iwata (Nintendo)
 
-> On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
+<?> On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
 
 Check out [contribution guidelines](CONTRIBUTING.md) and other [awesome](https://github.com/sindresorhus/awesome) stuff!
 
